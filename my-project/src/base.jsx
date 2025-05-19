@@ -15,6 +15,7 @@ function Base(){
     </div>
     </>
   )
+  // remove text from spline and add div.texts here use css to arrange them on it and give them navlink so that u can redirect.
 }
 
 export default Base
